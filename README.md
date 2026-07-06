@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=800&color=FFE81F&center=true&vCenter=true&width=1000&lines=Wilson+Ng;Navigating+Quantitative+Finance+%26+AI+Systems"
-  alt="Star Wars Header" width="100%" />
+  alt="Star Wars Header" width="150%" />
 
   <br/>
 
